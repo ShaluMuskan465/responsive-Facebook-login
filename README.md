@@ -55,7 +55,7 @@ UI cloning
 
 ## Preview
 
-![Facebook Login Page](screenshot.png)
-👩‍💻 Author
+![Project Screenshot](Screenshot.png)
 
+👩‍💻 Author
 Shalu Muskan
